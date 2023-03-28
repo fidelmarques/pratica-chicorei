@@ -1,0 +1,21 @@
+@import './base.css';
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+
+  font-weight: normal;
+}
+
+a {
+  text-decoration: none;
+  color: #e06c2b;
+}
+
+a :hover {
+  color: #f5962c;
+  transition: 0.4s;
+}
+
+@media (min-width: 1024px) {
+}
