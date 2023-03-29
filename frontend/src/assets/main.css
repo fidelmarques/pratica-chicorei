@@ -1,7 +1,6 @@
 @import './base.css';
 
 #app {
-  max-width: 1280px;
   margin: 0 auto;
 
   font-weight: normal;
@@ -9,11 +8,10 @@
 
 a {
   text-decoration: none;
-  color: #e06c2b;
+  color: black;
 }
 
 a :hover {
-  color: #f5962c;
   transition: 0.4s;
 }
 

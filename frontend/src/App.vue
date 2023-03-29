@@ -17,6 +17,10 @@ import Footer from './components/Footer.vue'
 
 <style scoped>
 main {
-  min-height: 100vh;
+  min-height: 86vh;
+  padding: 1rem;
+
+  display: flex;
+  justify-content: center;
 }
 </style>
