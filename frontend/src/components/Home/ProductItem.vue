@@ -43,6 +43,10 @@
   padding: 0.5rem;
 }
 
+.productDetails h3 {
+  font-size: 1.2rem;
+}
+
 .productItem img {
   /* border-radius: 10px; */
   width: 100%;
@@ -66,6 +70,7 @@
   display: flex;
   gap: 1rem;
   align-items: center;
+  font-size: 1.1rem;
 }
 
 .normal-price {

@@ -103,11 +103,11 @@
 }
 
 .productsDescription-title {
-  font-size: 32px;
+  font-size: 2.5rem;
 }
 
 .productsDescription-subtitle {
-  font-size: 18px;
+  font-size: 1.5rem;
 }
 
 .productsDescription-modelSelectorWrapper {
@@ -135,9 +135,13 @@
 }
 
 .productsDescription-priceContainer {
-  font-size: 24px;
+  font-size: 2rem;
   display: flex;
   gap: 15px;
+}
+
+.selector {
+  font-size: 1rem;
 }
 
 .selector:hover {
@@ -153,6 +157,7 @@
 
   background-color: black;
   color: white;
+  font-size: 1.1rem;
 }
 
 .productsDescription-addToCartButton:hover {
