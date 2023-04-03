@@ -6,8 +6,7 @@ Este é um projeto que tem como objetivo fazer web srap da [página de camisetas
 - Abra o terminal e navegue até o diretório `backend` do projeto.
 - Execute o comando `composer install` para instalar as dependências do projeto.
 - Renomeie o arquivo `.env.example` para `.env`.
-- Execute o comando `php artisan key:generate` para gerar uma chave para a aplicação.
-- Configure as informações de acesso ao banco de dados no arquivo .env.
+- Configure as informações de acesso ao banco de dados no arquivo `.env`.
 - Execute o comando `php artisan migrate` para criar as tabelas no banco de dados.
 - Execute o comando `php artisan db:seed` para popular as tabelas com dados de teste.
 - Execute o comando `php artisan serve` para iniciar o servidor de desenvolvimento.
