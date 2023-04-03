@@ -3,7 +3,7 @@ Este é um projeto que tem como objetivo fazer web srap da [página de camisetas
 
 ## Instalação
 - Clone este repositório em sua máquina local.
-- Abra o terminal e navegue até o diretório raiz do projeto.
+- Abra o terminal e navegue até o diretório `backend` do projeto.
 - Execute o comando `composer install` para instalar as dependências do projeto.
 - Renomeie o arquivo `.env.example` para `.env`.
 - Execute o comando `php artisan key:generate` para gerar uma chave para a aplicação.
